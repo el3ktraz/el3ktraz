@@ -3,8 +3,7 @@
 
 <h2 align="center">Hi there 👋, I'm ABHI!</h2>
 
-<h2>Intrested Fileds</h2>
-<h3>Entry-level software developer | Security researcher | Networking | ML | Python | Penetration Testing </h3>
+<h2>I'm an entry-level software developer and passionate security researcher with interests in networking, machine learning, Python, and ethical hacking.</h2>
 
 
 
