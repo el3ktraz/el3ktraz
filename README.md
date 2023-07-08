@@ -9,7 +9,9 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![El3ktraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=el3ktraz)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![El3ktraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=el3ktraz&show_icons=true&theme=gruvbox)
 <!--
 **el3ktraz/el3ktraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
