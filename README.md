@@ -11,7 +11,9 @@
 - ⚡ Fun fact: ...
 
 
-![El3ktraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=el3ktraz&show_icons=true&theme=gruvbox)
+![El3ktraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=el3ktraz&show_icons=true&theme=tokyonight)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=el3ktraz&layout=compact)
 <!--
 **el3ktraz/el3ktraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
