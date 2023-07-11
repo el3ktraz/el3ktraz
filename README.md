@@ -5,6 +5,8 @@
 
 <h2>Software Dev | ML | Python | Self taught Pentester | Networking | AWS </h2>
 
+<h3> want to try UI/UX , Front end WEb development , Marketting  </h3>
+
 
 
 <h2>🏆 Github Profile Trophy</h2>
