@@ -18,7 +18,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el3ktraz&layout=compact)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el3ktraz&layout=donut-vertical)](https://github.com/el3ktraz/github-readme-stats)
 
