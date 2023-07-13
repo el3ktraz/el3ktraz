@@ -20,6 +20,9 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=el3ktraz&langs_count=5&theme=tokyonight)]()
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=el3ktraz)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
  
 
 ![](https://komarev.com/ghpvc/?username=el3ktraz)
