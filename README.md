@@ -13,14 +13,8 @@
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=el3ktraz&column=9&theme=gruvbox&no-frame=true"/>
 
 
-
-![El3ktraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=el3ktraz&show_icons=true&theme=tokyonight)
-
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=el3ktraz&layout=donut-vertical)](https://github.com/el3ktraz/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=el3ktraz&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=el3ktraz&langs_count=5&theme=tokyonight)]()
 
 
  
