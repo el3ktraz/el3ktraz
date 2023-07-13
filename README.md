@@ -14,7 +14,7 @@
 
 
 
-![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=el3ktraz&show_icons=true&theme=tokyonight)
+![El3ktraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=el3ktraz&show_icons=true&theme=tokyonight)
 
 
 
