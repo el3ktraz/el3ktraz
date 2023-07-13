@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Entry-level+Software+Developer.++++++++++)](https://git.io/typing-svg)
 
 
-[![Abhi's GitHub Banner](./HI.png)](https://4bhi.vercel.app)
+[![Abhi's GitHub Banner](./HI.png)](https://4bhi.vercel.app/)
 <h2>Software Dev | ML | Python | Self taught Pentester | Networking | AWS </h2>
 
 <h3> want to try UI/UX , Front end WEb development , Marketting , SEO ] </h3>
