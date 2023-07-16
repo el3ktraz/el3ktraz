@@ -6,7 +6,7 @@
 <h2>Software Dev | ML | Python | Self taught Pentester | Networking | AWS </h2>
 
 <h3> want to try UI/UX , Front end WEb development , Marketting , SEO ] </h3>
-<h4>i am looking to collaborate on python projects </h4>
+<h4>i am looking to collaborate on python projects , you can contact me by posting an issue in this repo  </h4>
 
 
 
