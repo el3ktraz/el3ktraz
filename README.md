@@ -19,10 +19,10 @@
 
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=el3ktraz&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=el3ktraz&langs_count=5&theme=radical)]()
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=el3ktraz&theme=tokyonight&background=000000&stroke=555555&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=el3ktraz&theme=radical&background=000000&stroke=555555&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
  
