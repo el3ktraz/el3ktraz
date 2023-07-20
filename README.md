@@ -15,7 +15,7 @@
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=el3ktraz&column=9&theme=gruvbox&no-frame=true"/>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=el3ktraz&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=el3ktraz&count_private=true&theme=radical&showicons=true)]()
 
 
 
