@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Entry-level+Software+Developer.++++++++++)](https://git.io/typing-svg)
 
+<p> <img src="https://komarev.com/ghpvc/?username=el3ktraz&label=Profile%20views&color=blueviolet&style=flat" alt="el3ktraz" /> <img src="https://shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/el3ktraz/interval:30_days&color=blueviolet&label=Coding%20stats%20(last 30 days)" /> </p>
 
 ![abhi's banner image](https://github.com/el3ktraz/el3ktraz/assets/86217941/d88db363-3577-45ca-89ff-ba5ac6eeab5e)
 
@@ -26,4 +27,4 @@
 
  
 
-![](https://komarev.com/ghpvc/?username=el3ktraz)
+
