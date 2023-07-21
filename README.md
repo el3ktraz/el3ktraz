@@ -30,7 +30,7 @@
 <img align="left" alt="MY Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el3ktraz&langs_count=5&theme=radical" /> 
 <p align="center">
 
- <img align="center" alt="MY Github Streak" src="[https://github-readme-stats.vercel.app/api/?username=el3ktraz&count_private=true&theme=radical&showicons=true](https://github-readme-streak-stats.herokuapp.com/?user=el3ktraz&theme=radical&background=000000&stroke=555555&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727)](https://github.com/DenverCoder1/github-readme-streak-stats)https://github-readme-streak-stats.herokuapp.com/?user=el3ktraz&theme=radical&background=000000&stroke=555555&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727)](https://github.com/DenverCoder1/github-readme-streak-stats" /> 
+ <img align="center" alt="MY Github Streak" src="https://github-readme-stats.vercel.app/api/?username=el3ktraz&count_private=true&theme=radical&showicons=true](https://github-readme-streak-stats.herokuapp.com/?user=el3ktraz&theme=radical&background=000000&stroke=555555&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727)](https://github.com/DenverCoder1/github-readme-streak-stats)https://github-readme-streak-stats.herokuapp.com/?user=el3ktraz&theme=radical&background=000000&stroke=555555&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=DD2727)](https://github.com/DenverCoder1/github-readme-streak-stats" /> 
  
 
 </p>
