@@ -10,10 +10,6 @@
 <h4>i am looking to collaborate on python projects , you can contact me by posting an issue in this repo  </h4>
 
 
-
-<h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=el3ktraz&column=9&theme=gruvbox&no-frame=true"/>
-
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
