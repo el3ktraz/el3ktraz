@@ -17,10 +17,9 @@
 ----
 <img align="left" alt="MY Github Stats" src="https://github-readme-stats.vercel.app/api/?username=el3ktraz&count_private=true&theme=radical&showicons=true" /> 
 <p align="center">
-<a href="https://www.buymeacoffee.com/Boschko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 
-<!-- Feel free to reach out and introduce yourself :D-->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/olivier_boschko">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 </em>
+ <img align="center" alt="MY Github Streak" src="https://streak-stats.demolab.com/?user=el3ktraz&theme=radical" /> 
+ 
 
 </p>
 
@@ -30,11 +29,14 @@
 <img align="left" alt="MY Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el3ktraz&langs_count=5&theme=radical" /> 
 <p align="center">
 
- <img align="center" alt="MY Github Streak" src="https://streak-stats.demolab.com/?user=el3ktraz&theme=radical" /> 
+ <a href="https://www.buymeacoffee.com/Boschko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+
+<!-- Feel free to reach out and introduce yourself :D-->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/olivier_boschko">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 </em>
+
  
 
 </p>
-----
- 
+
 
 
