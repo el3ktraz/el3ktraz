@@ -4,7 +4,15 @@
 
 ![abhi's banner image](https://github.com/el3ktraz/el3ktraz/assets/86217941/d88db363-3577-45ca-89ff-ba5ac6eeab5e)
 
+I'm a passionate Red Team Operator. I love CTF's, HackTheBox, and most puzzle games! I know nothing about reverse engineering and binary exploit, but I know how to get flags. I specialize in Social-Engineering and OSINT. I primarily solve challenges ranging from pwn to crypto, from crypto to bruteforce, from butefore to guessing, from guessing to ESP…
 
+- 🔭 At the moment im spending a lot of time developing  botting scripts , learning ML & Python
+- 🌱 I’m currently learning everything 
+- 👯 Always looking to collaborate with others 
+- 🥅 2023 Goals: Python,ML 
+- ⚡ Fun fact: I explain most concepts & ideas in Microsoft Paint
+
+----
 
   <!-- GitHub Readme Streak Stats  -->
   <p>
