@@ -4,13 +4,7 @@
 
 ![abhi's banner image](https://github.com/el3ktraz/el3ktraz/assets/86217941/d88db363-3577-45ca-89ff-ba5ac6eeab5e)
 
-<h2>Software Dev | ML | Python | Self taught Pentester | Networking | AWS </h2>
 
-<h3> want to try UI/UX , Front end WEb development , Marketting , SEO ] </h3>
-<h4>i am looking to collaborate on python projects , you can contact me by posting an issue in this repo  </h4>
-
-
-  
 
   <!-- GitHub Readme Streak Stats  -->
   <p>
@@ -34,39 +28,14 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="el3ktraz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=el3ktraz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-<!--
-----
-<img align="left" alt="MY Github Stats" src="https://github-readme-stats.vercel.app/api/?username=el3ktraz&count_private=true&theme=radical&showicons=true" /> 
-<p align="center">
 
- <img align="center" alt="MY Github Streak" src="https://streak-stats.demolab.com/?user=el3ktraz&theme=radical" /> 
- 
-
-</p>
-
-----
-
-
-<img align="left" alt="MY Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=el3ktraz&langs_count=5&theme=radical" /> 
-<p align="center">
-
- <a href="https://www.buymeacoffee.com/Boschko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/olivier_boschko">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 </em>
-
- 
-
-</p>
-
--->
 ----
 <p align="center">
 
- <a href="https://www.buymeacoffee.com/Boschko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+ <a href="https://www.buymeacoffee.com/el3ktraz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/olivier_boschko">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 </em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 </em>
 
  
 
