@@ -17,7 +17,7 @@ I'm a passionate Red Team Operator. I love CTF's, HackTheBox, and most puzzle ga
   <!-- GitHub Readme Streak Stats  -->
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="el3ktraz's streak" src="https://streak-stats.demolab.com/?user=el3ktraz&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="el3ktraz's streak" src="https://streak-stats.demolab.com?user=el3ktraz&theme=radical&hide_border=true"/>
     </a>
     
   </p>
