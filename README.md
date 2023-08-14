@@ -12,7 +12,7 @@ I'm a passionate Red Team Operator. I love CTF's, HackTheBox, and most puzzle ga
 - 🥅 2023 Goals: Python,ML 
 - ⚡ Fun fact: I explain most concepts & ideas in Microsoft Paint
 
-----
+-----
 
   <!-- GitHub Readme Streak Stats  -->
   <p>
